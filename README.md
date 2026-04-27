@@ -21,7 +21,7 @@ In the era of Data engineer and Agentic AI, I also want to catch up and create i
 ## Progress Tracker
 
 ### Week 1: Foundation (Days 1-7)
-- [x] Day 1: GitHub setup & first commit ✨ YOU ARE HERE
+- [✅] Day 1: GitHub setup & first commit ✨ 
 
 ### Week 2: Analysis Skills (Days 8-14)
 - [ ] Day 8-14: Coming soon...
@@ -58,6 +58,7 @@ In the era of Data engineer and Agentic AI, I also want to catch up and create i
 **Time spent:** 3 hours  
 **Feeling:** Excited and slightly nervous! Let's do this! 💪
 
+Day 1 completed with a bang
 ---
 
 **Follow my journey!** Star ⭐ this repo if you're also learning data science!
