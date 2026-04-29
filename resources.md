@@ -15,6 +15,7 @@ www.google.com
 &#x20;  - \[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 &#x20;  ## Day 2 Resources
+
 &#x20;  - \[Datasets](https://www.kaggle.com/datasets)
 
 &#x20;  ## Will add more as I learn!
