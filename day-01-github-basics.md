@@ -3,28 +3,37 @@
 ## What I Learned Today
 
 ### 1. What is GitHub?
-GitHub is a storage where we store, manage, and track changes in the code
+GitHub is like a storage where data/code is stored, managed, and can be used globally 
 
-### 2. Key Terms
-- **Repository:** [Your explanation]
-- **Commit:** [Your explanation]
-- **Push:** [Your explanation]
-- **README:** [Your explanation]
+### 2. Key Terms I Now Understand
+- **Repository:** Personal folder
+- **Commit:** store the changes in the repository files  
+- **Push:** Push the changes to the cloud
+- **README:** documentation is necessary for the user
 
 ### 3. Why GitHub Matters for Data Science
-showcasing projects from Github link is easier and also, we can make changes faster if needed 
+1. Store data
+2. Manage data
+3. we can show our projects easily
 
-## Challenges I Faced
-None..
+## Challenges I Faced Today
+Nothing as of now
+
+## What I'm Proud Of
+I thought GitHub is little tough to learn but its easy
 
 ## Tomorrow's Goal
-Learn Python basics for data analysis and start Project 2!
+Set up Python environment and start analyzing real data!
 
-## Resources Used
-- GitHub Docs
-- My awesome mentor (that's me 😎)
+## Commands I Learned
+```bash
+git status
+git add filename
+git commit -m "message"
+git push
+```
 
 ---
-**Time spent:** X hours  
-**Commits made:** 2  
-**Confidence level:** [1-10]
+**Time spent:** 45 mins  
+**Commits made today:** 4  
+**Confidence level (1-10):** 7
