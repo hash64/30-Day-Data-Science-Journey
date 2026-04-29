@@ -21,7 +21,8 @@ In the era of Data engineer and Agentic AI, I also want to catch up and create i
 ## Progress Tracker
 
 ### Week 1: Foundation (Days 1-7)
-- [✅] Day 1: GitHub setup & first commit ✨ 
+- [✅] Day 1: GitHub setup & first commit ✨
+- [✅] Day 2: Python environment + First data analysis 🐍
 
 ### Week 2: Analysis Skills (Days 8-14)
 - [ ] Day 8-14: Coming soon...
