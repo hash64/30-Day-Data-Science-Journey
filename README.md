@@ -62,4 +62,18 @@ In the era of Data engineer and Agentic AI, I also want to catch up and create i
 Day 1 completed with a bang
 ---
 
+### Day 2 - April 28, 2026
+**What I learned:**
+- Set up Python & Jupyter environment  
+- Learned pandas basics (DataFrames, filtering, groupby)
+- Mastered 5 chart types: bar, line, pie, histogram, scatter
+- Analyzed Titanic dataset (38.4% survival rate)
+- Completed 5 visualization practice exercises
+- **BREAKTHROUGH:** Went from confused about charts to 5/5 quiz score!
+
+**Key insight:** "Women and first-class passengers had much higher survival rates - the disaster wasn't equal for everyone."
+
+**Time spent:** 4 hours  
+**Feeling:** Much more confident! Understanding comes from doing, not just reading.
+
 **Follow my journey!** Star ⭐ this repo if you're also learning data science!
