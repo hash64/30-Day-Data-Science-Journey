@@ -77,3 +77,19 @@ Day 1 completed with a bang
 **Feeling:** Much more confident! Understanding comes from doing, not just reading.
 
 **Follow my journey!** Star ⭐ this repo if you're also learning data science!
+
+### Day 3 - May 05 2026
+**What I learned:**
+- Mastered Seaborn chart types (count, bar, box, violin, scatter, heatmap)
+- Understood WHEN to use WHICH chart (decision tree approach)
+- Created scatter plots with regression lines
+- Built correlation heatmaps
+- **MAJOR WIN:** Created my first multi-chart dashboard!
+
+**Key breakthrough:** Finally understand chart selection! Ask "What am I showing?" and the chart type becomes obvious.
+
+**Charts mastered today:** 6 types (count, bar, box, violin, scatter, heatmap)
+
+**Time spent:** 4 hours  
+**Confidence level:** Went from 5/10 to 8/10 on visualizations!  
+**Feeling:** Excited! My charts look professional now! 🎨
