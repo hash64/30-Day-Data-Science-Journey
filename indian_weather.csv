@@ -1,0 +1,11 @@
+city,temperature,feels_like,humidity,description,wind_speed
+Mumbai,32.99,39.99,62,haze,5.14
+Delhi,37.05,36.51,25,scattered clouds,2.57
+Bengaluru,32.3,33.52,44,scattered clouds,12.96
+Chennai,33.7,40.7,69,scattered clouds,4.12
+Kolkata,33.97,39.02,52,haze,0.0
+Hyderabad,36.23,38.25,36,haze,3.09
+Pune,35.78,33.36,15,overcast clouds,4.29
+Ahmedabad,38.02,37.93,25,smoke,2.57
+Jaipur,38.62,37.24,19,haze,1.54
+Lucknow,34.99,38.14,43,haze,4.12
